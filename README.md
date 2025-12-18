@@ -1,16 +1,51 @@
-## Hi there 👋
+### 👋 Hi, I'm Nicolas Carvalho!
 
-<!--
-**Nicolasvcarvalho/Nicolasvcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at IFCE interested in Data Engineering and Machine Learning.
+I am currently developing my skills in Python and SQL, focusing on data pipelines, ETL processes, and data modeling.
+I am also exploring Machine Learning concepts and how high-quality data and efficient data infrastructure
+play a key role in building reliable and scalable ML solutions.
 
-Here are some ideas to get you started:
+##
+### Languages and Technologies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<img
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="35px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/> 
+
+<img 
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="35px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+ />
+
+<img 
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="35px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
+ />
+
+<img 
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="35px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg"
+/>
+
+<img 
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="35px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
